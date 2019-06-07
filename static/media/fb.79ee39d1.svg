@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<svg className="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 210 210"
+     width="13px" height="23px">
+    <g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter"
+       stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none"
+       font-size="none" text-anchor="none" style="mix-blend-mode: normal">
+        <path d="M0,210v-210h210v210z"/>
+        <g fill="#fff">
+            <path d="M153.34375,78.75h-30.84375v-17.5c0,-9.03 0.735,-14.7175 13.67625,-14.7175h16.345v-27.825c-7.95375,-0.8225 -15.95125,-1.225 -23.9575,-1.2075c-23.73875,0 -41.06375,14.49875 -41.06375,41.11625v20.13375h-26.25v35l26.25,-0.00875v78.75875h35v-78.77625l26.8275,-0.00875z"/>
+        </g>
+    </g>
+</svg>
